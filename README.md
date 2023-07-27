@@ -1,1 +1,1 @@
-# Real-Time-color-detection
+# Color-detection-python
